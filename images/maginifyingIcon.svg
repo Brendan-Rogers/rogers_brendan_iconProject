@@ -1,0 +1,21 @@
+<svg id="maginifying_icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 224 224">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        stroke: #ccc;
+        stroke-miterlimit: 10;
+        stroke-width: 8px;
+      }
+    </style>
+  </defs>
+  <title>maginifyingIcon</title>
+  <circle id="outerCircle" class="cls-1" cx="112" cy="112" r="108"/>
+  <circle id="blah" class="cls-1" cx="112" cy="112" r="108"/>
+  <g id="glass">
+    <circle class="cls-1" cx="87.35" cy="97.48" r="34.68" transform="translate(-54.34 72.31) rotate(-45)"/>
+    <path class="cls-1" d="M71.82,113a22,22,0,0,1,0-31" transform="translate(-11 -18)"/>
+    <path class="cls-1" d="M183.45,179.66a10,10,0,0,1-.06,14.08h0a10,10,0,0,1-14.08.06l-62.73-62.73c-4.24-4.24,3.31-3.31,7.18-7.18h0c3.87-3.87,2.72-11.2,7-7Z" transform="translate(-11 -18)"/>
+    <path class="cls-1" d="M120.72,145.22l-14.14-14.14c-4.24-4.24,3.31-3.31,7.18-7.18h0c3.87-3.87,2.72-11.2,7-7l14.14,14.14Z" transform="translate(-11 -18)"/>
+  </g>
+</svg>
