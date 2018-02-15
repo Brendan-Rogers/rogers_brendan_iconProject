@@ -7,11 +7,19 @@
         stroke-miterlimit: 10;
         stroke-width: 8px;
       }
+
+      #details { display: block; }
+
+      @media screen and (max-width: 150px) {
+        #details{
+          display: none;
+        }
+      }
     </style>
   </defs>
   <title>maginifyingIcon</title>
   <circle id="outerCircle" class="cls-1" cx="112" cy="112" r="108"/>
-  <circle id="blah" class="cls-1" cx="112" cy="112" r="108"/>
+  <circle id="details" class="cls-1" cx="112" cy="112" r="108"/>
   <g id="glass">
     <circle class="cls-1" cx="87.35" cy="97.48" r="34.68" transform="translate(-54.34 72.31) rotate(-45)"/>
     <path class="cls-1" d="M71.82,113a22,22,0,0,1,0-31" transform="translate(-11 -18)"/>

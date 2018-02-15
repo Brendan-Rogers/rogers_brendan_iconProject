@@ -30,3 +30,9 @@ main { text-align: center; }
 	display: block;
 	width: 100%;
 }
+
+.svgs
+{
+	width: 50%;
+	float: left;
+}
